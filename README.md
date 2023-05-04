@@ -1,5 +1,5 @@
-### Hi there 👋, I'm Kevin
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kevin-rojas-palma/)](https://www.linkedin.com/in/kevin-rojas-palma/)
+### Hello World 👋, I'm Kevin
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kevinrojasp/)](https://www.linkedin.com/in/kevinrojasp/)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=56966362686&text=Hola!)](https://api.whatsapp.com/send?phone=56966362686&text=Hola!)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kevinrojasp@gmail.com)](mailto:kevinrojasp@gmail.com)
 
@@ -11,7 +11,7 @@ Furthermore, I have experience with SQL, which enables me to effectively manage 
 ### About
 -  **Learning :** Full-Stack Java :zap: | Open-Source :fire:	
 -  **Languages :** Java, Python, HTML5, C, JavaScript
--  **Hobbies :** Dota2 & Music :headphones:
+-  **Hobbies :** Dota 2 & Music :headphones:
 -  **Fact :** First solve the problem, then write the code :heart: 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Tech Stack
